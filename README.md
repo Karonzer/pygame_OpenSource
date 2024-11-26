@@ -51,5 +51,5 @@ python pygame.py
 + 난이도 조정:
 
   + ObstacleMoveSpeed 값을 조정하여 장애물 속도를 변경할 수 있습니다.
-  + Obstacle_images와 ObstacleSponX 리스트를 확장하여 장애물을 추가할 수 있습니다.
+  + Obstacle_images와 ObstacleSponX,ObstacleSponY 리스트를 확장하여 장애물을 추가할 수 있습니다.
 
