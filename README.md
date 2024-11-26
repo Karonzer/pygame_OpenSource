@@ -49,3 +49,5 @@ python pygame.py
   + ObstacleMoveSpeed 값을 조정하여 장애물 속도를 변경할 수 있습니다.
   + Obstacle_images와 ObstacleSponX 리스트를 확장하여 장애물을 추가할 수 있습니다.
 
+## 오픈소스
++ 이 폴더는 한양사이버대학교 강**의 파이썬 과제의 일환으로 제작되었습니다 Pygame과 Python을 학습하고 참고할 수 있도록 오픈소스로 업로드되었습니다.
